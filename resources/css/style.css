@@ -28,3 +28,8 @@ a {
 .copyright {
   text-align: right;
 }
+
+video {
+  margin-top: -50px;
+  margin-bottom: -50px;
+}
